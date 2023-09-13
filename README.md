@@ -1,3 +1,3 @@
 # Fast pizza | React project
 
-![Screenshot](./screenshots/1.jpeg)
+![Screenshot](/public/screenshots/1.jpeg)
